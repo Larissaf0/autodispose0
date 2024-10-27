@@ -3,7 +3,7 @@
 ## Objetivo
 Desenvolver uma lixeira automatizada utilizando Arduino, com sensores de movimento para abertura automática da tampa, proporcionando maior higiene e praticidade no descarte de resíduos.
 
-##Componentes do Circuito
+## Componentes do Circuito
 1 Arduino Nano
 1 Sensor Ultrassonico
 1 Servo motor
