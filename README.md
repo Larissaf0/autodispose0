@@ -1,1 +1,4 @@
-# autodispose0
+# Projeto: Automação de Lixeira com Arduino
+
+## Objetivo
+
